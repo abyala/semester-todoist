@@ -35,6 +35,9 @@ optional collection days (weeks off of `:start-date`) to ignore; in this example
 `2024-09-11`, but that and the following weeks we have off (I wish), so week 3 would automatically show up as
 `2024-09-25`.
 
+The allowed values for the type of each assignment (first argument) are `:read`, `:write`, `:watch`, `:project`,
+`:optional-read`, `:optional-write`, and `:optional-watch`.
+
 ## Output file format
 
 The output is a CSV, based on
