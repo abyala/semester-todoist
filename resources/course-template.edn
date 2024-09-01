@@ -1,0 +1,10 @@
+{:id         0
+ :name       ""
+ :start-date "yyyy-MM-dd"
+ :off-weeks  ["yyyy-MM-dd"]
+ :weeks      [
+              ["Week title"
+               [[:read "Thing to read"]
+                [:write "Somnething small to write"]
+                [:watch "Thing to watch besides the weekly video lecture (that shows up for free)" "Maybe the URL?"]
+                [:project "Project due"]]]]}
